@@ -1,4 +1,4 @@
-![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kryple)
+![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamPhuThuy)
 
 Hi there! I'm a game developer with a passion for pixel art games
 
