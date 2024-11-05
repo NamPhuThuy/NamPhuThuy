@@ -8,8 +8,7 @@ Hi there! I'm a game developer with a passion for pixel art games
 </a>  
 
 ### My blog
-Blog
-<a href = "https://namphuthuy.github.io/TNam-blog/"> </a>
+<a href = "https://namphuthuy.github.io/TNam-blog/"> Blog </a>
 
 Contact me at:
 - 📫 ttnam957@gmail.com
