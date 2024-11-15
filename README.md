@@ -16,5 +16,16 @@ Contact me at:
 
 ### My random artworks
 <!-- ![](images/Bill_Cipher.png) -->
-<img src="images/Bill_Cipher.png" alt="Image description" width="500px">
-<img src="images/Workspace.png" alt="Image description" width="500px">
+
+
+
+<table>
+        <tr>
+            <th>Image 1</th>
+            <th>Image 2</th>
+        </tr>
+        <tr>
+            <td><img src="images/Bill_Cipher.png" alt="Image description" width="500px"></td>
+            <td><img src="images/Workspace.png" alt="Image description" width="500px"></td>
+        </tr>
+    </table>
