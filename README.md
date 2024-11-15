@@ -21,8 +21,8 @@ Contact me at:
 
 <table>
         <tr>
-            <th>Image 1</th>
-            <th>Image 2</th>
+            <th>Bill Cipher</th>
+            <th>Chucky</th>
         </tr>
         <tr>
             <td><img src="images/Bill_Cipher.png" alt="Image description" width="500px"></td>
