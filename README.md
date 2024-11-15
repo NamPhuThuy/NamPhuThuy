@@ -4,7 +4,7 @@ Hi there! I'm a game developer with a passion for pixel art games
 
 ### Some of my works
 <a href="https://kryple.itch.io/">
-  <img src="Images/Itch_logo.png" alt="Image description" width="80">
+  <img src="images/Itch_logo.png" alt="Image description" width="80">
 </a>  
 
 ### My blog
@@ -13,3 +13,8 @@ Hi there! I'm a game developer with a passion for pixel art games
 Contact me at:
 - 📫 ttnam957@gmail.com
 - [Facebook](https://www.facebook.com/profile.php?id=61554875248180)
+
+### My random artworks
+<!-- ![](images/Bill_Cipher.png) -->
+<img src="images/Bill_Cipher.png" alt="Image description" width="500px">
+<img src="images/Workspace.png" alt="Image description" width="500px">
