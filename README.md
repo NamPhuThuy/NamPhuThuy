@@ -1,6 +1,6 @@
 ![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamPhuThuy)
 
-Hi there! I'm a game developer with a passion for pixel art games
+Hi there! I'm a game programmer with a passion for pixel art games
 
 ### Some of my works
 <a href="https://kryple.itch.io/">
