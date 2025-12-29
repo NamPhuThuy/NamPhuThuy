@@ -1,4 +1,5 @@
 ![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamPhuThuy)
+[![committers.top badge](https://user-badge.committers.top/vietnam/USERNAME.svg)](https://user-badge.committers.top/vietnam/NamPhuThuy)
 
 Hi there! I'm a game programmer with a passion for pixel art games
 
