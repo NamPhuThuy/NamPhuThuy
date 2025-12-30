@@ -32,4 +32,10 @@ Contact me at:
 - UPack: Packages for Unity
 - USample: My sanbox projects for testing things with Unity
 - TNxxx: My personal projects
-- 
+
+## Hey, look, this snake is eating my contributions!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg">
+</picture>
