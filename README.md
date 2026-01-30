@@ -1,7 +1,22 @@
+
+<img src="assets/readme-header.svg" width="100%" />
+
 ![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamPhuThuy)  
 [![committers.top badge](https://user-badge.committers.top/vietnam/USERNAME.svg)](https://user-badge.committers.top/vietnam/NamPhuThuy)
 
+
+<div align="center">
+  <br />
+  <img src="assets/logo.svg" alt="Logo" width="420" />
+  <br />
+</div>
+
 Hi there! I'm a game programmer with a passion for pixel art games
+
+<div align="center">
+  <img src="assets/divider.svg" width="80%" alt="divider" />
+</div>
+
 
 ### Some of my works
 <a href="https://kryple.itch.io/">
@@ -39,3 +54,5 @@ Contact me at:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NamPhuThuy/NamPhuThuy/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NamPhuThuy/NamPhuThuy/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="assets/readme-footer.svg" width="100%" />
