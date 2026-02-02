@@ -1,9 +1,12 @@
 
 <img src="assets/readme-header.svg" width="100%" />
 
-![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamPhuThuy)  
-[![committers.top badge](https://user-badge.committers.top/vietnam/USERNAME.svg)](https://user-badge.committers.top/vietnam/NamPhuThuy)
 
+
+
+
+[comment]: <> (![Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamPhuThuy)  )
+[comment]: <> ([![committers.top badge](https://user-badge.committers.top/vietnam/USERNAME.svg)](https://user-badge.committers.top/vietnam/NamPhuThuy))
 
 <div align="center">
   <br />
