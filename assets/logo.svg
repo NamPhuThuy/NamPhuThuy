@@ -43,7 +43,7 @@
           stroke-width="18"
           stroke-linejoin="round"
           filter="url(#bubble-glow)">
-      NamPhuThuy
+      Coding
     </text>
 
     <!-- Inner White Stroke -->
@@ -55,7 +55,7 @@
           stroke="url(#stroke-grad)" 
           stroke-width="10"
           stroke-linejoin="round">
-      NamPhuThuy
+      Coding
     </text>
 
     <!-- Main Fill -->
@@ -64,7 +64,7 @@
           font-weight="900" 
           font-size="110" 
           fill="url(#ocean-grad)">
-      NamPhuThuy
+      Coding
     </text>
     
     <!-- Highlight Shine -->
@@ -83,7 +83,7 @@
             stroke-width="5"
             stroke-linejoin="round"
             letter-spacing="2">
-        the Game Dev
+        ............
       </text>
       <!-- White Inner Stroke -->
       <text x="50%" y="165" text-anchor="middle" 
@@ -95,7 +95,7 @@
             stroke-width="2"
             stroke-linejoin="round"
             letter-spacing="2">
-        the Game Dev
+        ............
       </text>
       <!-- Fill -->
       <text x="50%" y="165" text-anchor="middle" 
@@ -104,7 +104,7 @@
             font-size="32" 
             fill="#5FA8D3" 
             letter-spacing="2">
-        the Game Dev
+        ............
       </text>
     </g>
   </g>
