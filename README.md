@@ -43,6 +43,12 @@ Contact me at:
         <td><img src="images/Bill_Cipher.png" alt="Image description" width="500px"></td>
         <td><img src="images/Workspace.png" alt="Image description" width="500px"></td>
     </tr>
+    <tr>
+        <th>The Stage</th>
+    </tr>
+    <tr>
+        <td><img src="images/the_stage.png" alt="The Stage" width="500px"></td>
+    </tr>
 </table>
 
 ### Repos
